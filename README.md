@@ -1,1 +1,14 @@
 - mail me at abulkalam@github.com
+- I am an engg and learing git hub
+- what is Git hub
+- Git hub is Distributed version control system
+- git life cycle having 3 stages
+- first stage is working directory
+- second stage is Staging Area
+- third is Local repository
+- Working Area we write the code
+- written codes are stored in staging area
+- gid add is the commnad to staging area 
+- git commit is the command to add into local repo
+- get push command to add the stored code into remote repo 
+
